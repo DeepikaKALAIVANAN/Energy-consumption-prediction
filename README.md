@@ -1,4 +1,5 @@
 **Machine Learning to Predict Energy Consumption**
+
 This project explores how machine learning models can be applied to forecast energy consumption using real-world data. The notebook includes data preprocessing, feature engineering, model training, evaluation, and visualization of predictions.
 
 **_Models Used_**
