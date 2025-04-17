@@ -1,22 +1,21 @@
 **Machine Learning to Predict Energy Consumption**
 This project explores how machine learning models can be applied to forecast energy consumption using real-world data. The notebook includes data preprocessing, feature engineering, model training, evaluation, and visualization of predictions.
 
-_## Models Used_
+**_ Models Used_**
 
 - **Linear Regression**
 - **Decision Tree Regressor**
 - **Random Forest Regressor**
 - **Gradient Boosting Regressor**
 
-_## Features_
-
+**_ Features_**
 - Data loading and exploratory data analysis (EDA)
 - Handling missing values and outliers
 - Time-based feature engineering
 - Training and evaluation of regression models
 - Visualizations of predicted vs actual energy usage
 
-_## Dataset_
+**_Dataset_**
 
 The dataset used in this notebook contains time-series data related to energy consumption. It includes features such as:
 
@@ -25,7 +24,7 @@ The dataset used in this notebook contains time-series data related to energy co
 - Humidity
 - Power consumption (target)
 
-_## Evaluation Metrics_
+**_ Evaluation Metrics_**
 
 The models are evaluated using:
 
@@ -34,7 +33,7 @@ The models are evaluated using:
 - Root Mean Squared Error (RMSE)
 - R² Score
 
-_## Running the Notebook_
+**_ Running the Notebook_**
 
 1. Clone the repository:
    ```bash
